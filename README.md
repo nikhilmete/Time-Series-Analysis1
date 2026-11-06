@@ -1,4 +1,4 @@
-Time Series Analysis
+#Time Series Analysis
 with a Deep Learning Extension — Bidirectional RNN, LSTM,
 and GRU
 What you'll learn:
